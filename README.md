@@ -529,7 +529,7 @@ my-portfolio/
 ├── package.json
 └── README.md
 ```
-
+* CHÚ Ý FILE APP VÀ COMPONENT THÔI
 > Đây là cấu trúc tham khảo. Sinh viên có thể tổ chức Component khác nhau nhưng phải đảm bảo đầy đủ các chức năng được yêu cầu.
 
 ---
